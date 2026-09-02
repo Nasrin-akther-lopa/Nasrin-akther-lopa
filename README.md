@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-banner.png" alt="Nasrin Akther - MERN Stack Developer" width="100%">
+</p>
+
 # Hi 👋, I'm <YOUR NAME>  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
