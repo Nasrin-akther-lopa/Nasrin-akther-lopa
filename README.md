@@ -1,54 +1,135 @@
+
+<!-- ======================= BANNER ======================= -->
+
 <p align="center">
-  <img src="./profile-banner.png" alt="Nasrin Akther - MERN Stack Developer" width="100%">
+  <img src="./profile-banner.png" alt="Nasrin Akther - Web Developer" width="100%">
 </p>
 
-# Hi 👋, I'm <YOUR NAME>  
-### 🔭 I build things with JavaScript, React, and Node.js
+<!-- ======================= INTRO ======================= -->
+
+<h1 align="center">Hi 👋, I'm Nasrin Akther</h1>
+
+<h3 align="center">
+  🎓 Student | 🌐 Aspiring Web Developer
+</h3>
+
+<p align="center">
+  <a href="mailto:nasrincoder@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nasrincoder%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+</p>
 
 ---
 
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+## 👩‍💻 About Me
+
+I'm a passionate student and aspiring web developer who enjoys
+building modern and user-friendly web applications.
+
+I love learning new technologies and improving my coding skills
+through practice and real-world projects.
+
+I'm currently focused on React, React with TypeScript, and modern
+full-stack web development. 🚀
+
+### 🚀 Currently Learning & Working On
+
+- 🌱 Learning React.js
+- ⚛️ Exploring React with TypeScript
+- 🚀 Exploring Next.js
+- 💻 Building full-stack web projects
+- 🧠 Improving problem-solving skills
+- 📚 Continuously learning modern web technologies
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+### 🎨 Frontend
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+### ⚙️ Backend & Database
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-## 🌐 Connect With Me  
+### 🧰 Tools & Technologies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🌐 Connect With Me
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+<p align="left">
+
+<a href="https://github.com/Nasrin-akther-lopa" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/arohi-islam-the-web-developer-1a633b35a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61591099947329" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/nasrincoder/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@ArohiIslamThewebdeveloper" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="mailto:nasrincoder@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasrin-akther-lopa&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrin-akther-lopa&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nasrin-akther-lopa&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nasrin-akther-lopa&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<h3 align="center">
+  ✨ Thanks for visiting my profile! ✨
+</h3>
+
+<p align="center">
+  💙 Keep Learning • Keep Building • Keep Growing 🚀
+</p>
+
+
